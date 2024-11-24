@@ -71,3 +71,10 @@ func2 = function (){
 }
 
 let number1: number = undefined
+let string9: string = null;
+let object: {a:10,b:false}= undefined;
+let array: any[] = null;
+let undefined1: undefined = null;
+let null1: null = undefined
+let void1: void = null;
+
